@@ -30,6 +30,7 @@ setup(
         "xlrd",
         "markdown",
         "pytz",
+        "LangChainKaltura @ git+https://github.com/tl-its-umich-edu/langchain_kaltura@2025.03.01",
     ],
     python_requires=">=3.8.1",
 )
