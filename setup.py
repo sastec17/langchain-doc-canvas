@@ -18,7 +18,7 @@ setup(
         "langchain",
         "langchain-community",
         "unstructured[docx,pptx]",
-        "canvasapi:3.3.0",
+        "canvasapi==3.3.0",
         "beautifulsoup4",
         "lxml",
         "PyPDF2[crypto]",
